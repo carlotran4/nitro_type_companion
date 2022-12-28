@@ -22,9 +22,6 @@ browser = webdriver.Chrome(service=Service(ChromeDriverManager().install()),
                            options=options)
 browser.get("https://www.nitrotype.com/login")
 
-# Password: fivethetaoneone
-# Username: nitro_type_bot_1
-
 
 def main(public_user_url, username="nitro_type_bot_1",
          password="fivethetaoneone"):
