@@ -8,7 +8,7 @@ No friends to race with? Race with a bot that matches either your's or someone e
     pip install selenium
     pip install webdriver_manager
     ```
-* Scroll to bottom where main() is called and put your public profile link in as the argument.
+* Scroll to the bottom of the python file where main() is called and put your public profile link in as the argument.
 * Run the program.
 * The bot will friend request you if you are not friends yet.
 * Invite the bot to your game.
