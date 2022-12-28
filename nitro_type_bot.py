@@ -148,4 +148,5 @@ def type_paragraph(letters, wpm) -> None:
         time.sleep(sec_per_char)
 
 
+# PUT USERNAME HERE
 main("https://www.nitrotype.com/racer/uwuleon")
